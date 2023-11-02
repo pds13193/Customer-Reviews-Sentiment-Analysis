@@ -10,12 +10,12 @@ You can access and interact with the project code in Google Colab. Simply click 
 
 [Open in Google Colab](<https://colab.research.google.com/drive/1eh0VGsJTL8R9r0edevIQ69CPe_1DYJIs#scrollTo=UCmxb-KG1dOK>)
 
-# Instructions:
+**Instructions:**
 1. Click on the provided link to open the project in Google Colab.
 2. Make a copy of the notebook to your own Google Drive (File > Save a copy in Drive).
 3. Run the code and explore the project.
 
-**Project Structure**
+# Project Structure
 
 The project is structured into the following sections:
 
@@ -68,7 +68,7 @@ Create a Python environment with the necessary libraries - Pandas, NumPy, Scikit
 **Project Execution:**
 Execute the Jupyter Notebook for each section, following the project's structure.
 
-**Conclusion**
+#Conclusion
 
 Sentiment analysis is a powerful tool for extracting insights from customer reviews. This project explores sentiment analysis on Amazon Musical Instruments Reviews, provides data preprocessing, text analysis, and model selection insights. The results suggest that logistic regression is the best-performing model for sentiment analysis, with potential for further improvements in cross-validation and data scaling.
 
