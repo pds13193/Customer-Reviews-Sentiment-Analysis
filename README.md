@@ -74,7 +74,7 @@ Sentiment analysis is a powerful tool for extracting insights from customer revi
 
 Feel free to adapt and extend this project to explore other datasets and applications of sentiment analysis in NLP.
 
-*These articles and notebooks are great and really useful for sentiment analysis and NLP. Check it out!*
+*These articles and notebooks are excellent resources that provide valuable insights for sentiment analysis and natural language processing. I highly recommend exploring them!*
 
 1.   [Text Preprocessing in Python: Steps, Tools, and Examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
 2.   [Sentiment Analysis — ML project from Scratch to Production (Web Application)](https://medium.com/towards-artificial-intelligence/sentiment-analysis-from-scratch-to-production-web-api-3382f19748e8)
