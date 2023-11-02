@@ -68,7 +68,7 @@ Create a Python environment with the necessary libraries - Pandas, NumPy, Scikit
 **Project Execution:**
 Execute the Jupyter Notebook for each section, following the project's structure.
 
-#Conclusion
+# Conclusion
 
 Sentiment analysis is a powerful tool for extracting insights from customer reviews. This project explores sentiment analysis on Amazon Musical Instruments Reviews, provides data preprocessing, text analysis, and model selection insights. The results suggest that logistic regression is the best-performing model for sentiment analysis, with potential for further improvements in cross-validation and data scaling.
 
