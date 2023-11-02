@@ -25,7 +25,7 @@ The dataset used in this project is sourced from Kaggle, available in JSON and C
 3. Applying Text Processing Functions
   
 **Exploratory Data Analysis (EDA)**
-1. Overview of the Dataset**
+1. Overview of the Dataset
 2. Analysis of Polarity, Review Length, and Word Counts
 3. N-Gram Analysis
 4. Word Clouds for Reviews with Positive, Neutral, and Negative Sentiments
@@ -38,7 +38,7 @@ The dataset used in this project is sourced from Kaggle, available in JSON and C
 
 **Model Selection and Evaluation**
 
-1. Trying various classification models**
+1. Trying various classification models
 2. K-Fold Cross Validation
 3. Hyperparameter Tuning
 4. Identifying the Best Model
