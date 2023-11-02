@@ -4,6 +4,17 @@
 
 This repository contains a Sentiment Analysis Mini Project focused on Amazon Musical Instruments Reviews. Sentiment analysis is a valuable natural language processing (NLP) technique with profound implications for business development, as it provides invaluable insights into customer opinions. In this project, I explore the Amazon Musical Instruments Reviews dataset, perform exploratory data analysis (EDA), and build a sentiment analysis model.
 
+# Access the Project Code
+
+You can access and interact with the project code in Google Colab. Simply click on the link below to open the code and run it in a Colab environment:
+
+[Open in Google Colab](<https://colab.research.google.com/drive/1eh0VGsJTL8R9r0edevIQ69CPe_1DYJIs#scrollTo=UCmxb-KG1dOK>)
+
+# Instructions:
+1. Click on the provided link to open the project in Google Colab.
+2. Make a copy of the notebook to your own Google Drive (File > Save a copy in Drive).
+3. Run the code and explore the project.
+
 **Project Structure**
 
 The project is structured into the following sections:
