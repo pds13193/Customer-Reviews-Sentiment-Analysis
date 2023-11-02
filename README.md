@@ -46,7 +46,7 @@ The dataset used in this project is sourced from Kaggle, available in JSON and C
 
 # Usage
 
-**To replicate this project, follow these steps:**
+To replicate this project, follow these steps:
 
 **Dataset:**
 Use the dataset available in the repository
