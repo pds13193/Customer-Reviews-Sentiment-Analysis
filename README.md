@@ -48,16 +48,17 @@ The dataset used in this project is sourced from Kaggle, available in JSON and C
 
 **To replicate this project, follow these steps:**
 
-**Dataset**
+**Dataset:**
 Use the dataset available in the repository
 
-**Environment Setup**
+**Environment Setup:**
 Create a Python environment with the necessary libraries - Pandas, NumPy, Scikit-Learn, Matplotlib, and NLTK
 
-**Project Execution**
+**Project Execution:**
 Execute the Jupyter Notebook for each section, following the project's structure.
 
 **Conclusion**
+
 Sentiment analysis is a powerful tool for extracting insights from customer reviews. This project explores sentiment analysis on Amazon Musical Instruments Reviews, provides data preprocessing, text analysis, and model selection insights. The results suggest that logistic regression is the best-performing model for sentiment analysis, with potential for further improvements in cross-validation and data scaling.
 
 Feel free to adapt and extend this project to explore other datasets and applications of sentiment analysis in NLP.
