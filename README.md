@@ -1,9 +1,9 @@
 # Sentiment Analysis on Amazon Musical Instruments Reviews
 
-# *Overview*
+**Overview**
 This repository contains a Sentiment Analysis Mini Project focused on Amazon Musical Instruments Reviews. Sentiment analysis is a valuable natural language processing (NLP) technique with profound implications for business development, as it provides invaluable insights into customer opinions. In this project, we explore the Amazon Musical Instruments Reviews dataset, perform exploratory data analysis (EDA), and build a sentiment analysis model.
 
-# *Project Structure
+**Project Structure**
 The project is structured into the following sections:
 
 **Dataset**
@@ -21,27 +21,30 @@ The dataset used in this project is sourced from Kaggle, available in JSON and C
 1. Text Cleaning
 2. Text Processing
 3. Applying Text Processing Functions
-4. Exploratory Data Analysis (EDA):
-
-**Overview of the Dataset**
-1. Analysis of Polarity, Review Length, and Word Counts
-2. N-Gram Analysis
-3. Word Clouds for Reviews with Positive, Neutral, and Negative Sentiments
+  
+**Exploratory Data Analysis (EDA)**
+1. Overview of the Dataset**
+2. Analysis of Polarity, Review Length, and Word Counts
+3. N-Gram Analysis
+4. Word Clouds for Reviews with Positive, Neutral, and Negative Sentiments
 
 **Feature Engineering**
 1. Dropping Insignificant Columns
 2. Encoding the Target Variable
 3. TF-IDF Vectorizer
 4. Resampling the Dataset
-5. Model Selection and Evaluation:
 
-**Trying various classification models**
-1. K-Fold Cross Validation
-2. Hyperparameter Tuning
-3. Identifying the Best Model
-4. Metrics Evaluation, including Confusion Matrix and Classification Scores
+**Model Selection and Evaluation**
 
-# *To replicate this project, follow these steps:*
+1. Trying various classification models**
+2. K-Fold Cross Validation
+3. Hyperparameter Tuning
+4. Identifying the Best Model
+5. Metrics Evaluation, including Confusion Matrix and Classification Scores
+
+# Usage
+
+**To replicate this project, follow these steps:**
 
 **Dataset**
 Use the dataset available in the repository
